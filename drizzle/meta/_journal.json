@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1791350677265,
+      "tag": "0000_true_skreet",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1791365780229,
+      "tag": "0001_whole_agent_zero",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1791366064991,
+      "tag": "0002_gigantic_banshee",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1791374954451,
+      "tag": "0003_tearful_cammi",
+      "breakpoints": true
+    }
+  ]
+}

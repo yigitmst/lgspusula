@@ -1,0 +1,10 @@
+import type {Log,Exam} from './model';
+import {periodBounds,summarize,net} from './model';
+export const shiftDate=(date:string,days:number)=>{const d=new Date(date+'T12:00:00Z');d.setUTCDate(d.getUTCDate()+days);return d.toISOString().slice(0,10)};
+export function weeklyWindow(date:string,asOf:string){const [start,end]=periodBounds(date,'Haftalık');const future=start>asOf;const currentEnd=future?end:end>asOf?asOf:end;const previousStart=shiftDate(start,-7),previousEnd=shiftDate(currentEnd,-7);return{start,end,currentEnd,previousStart,previousEnd,future,partial:!future&&currentEnd<end};}
+export function weeklyData(logs:Log[],date:string,asOf:string){const w=weeklyWindow(date,asOf);const current=w.future?[]:logs.filter(x=>x.date>=w.start&&x.date<=w.currentEnd),previous=w.future?[]:logs.filter(x=>x.date>=w.previousStart&&x.date<=w.previousEnd);return{window:w,current,previous,now:summarize(current),before:summarize(previous)};}
+export const examKey=(exam:Exam)=>JSON.stringify([exam.type,exam.difficulty||'Belirtilmedi',exam.rows.map(r=>[r.subject,r.total]).sort((a,b)=>String(a[0]).localeCompare(String(b[0])))]);
+export function examLabel(exam:Exam){return `${exam.type==='Tam deneme'?'Tam deneme':exam.rows[0]?.subject+' branş'} · ${exam.rows.reduce((s,r)=>s+r.total,0)} soru · ${!exam.difficulty||exam.difficulty==='Belirtilmedi'?'Zorluk belirtilmedi':exam.difficulty}`;}
+export function examGroups(exams:Exam[]){const map=new Map<string,{key:string;label:string;sample:Exam;exams:Exam[]}>();for(const e of exams){const key=examKey(e);if(!map.has(key))map.set(key,{key,label:examLabel(e),sample:e,exams:[]});map.get(key)!.exams.push(e)}return [...map.values()].sort((a,b)=>a.sample.type===b.sample.type?0:a.sample.type==='Tam deneme'?-1:1);}
+export function examAverage(exams:Exam[],subject?:string){if(!exams.length)return null;return exams.reduce((s,e)=>s+e.rows.filter(r=>!subject||r.subject===subject).reduce((n,r)=>n+net(r),0),0)/exams.length;}
+export function countChange(before:number,now:number,hasBefore:boolean,hasNow:boolean){if(!hasBefore||!hasNow)return null;return{absolute:now-before,percent:before>0?(now-before)/before*100:null};}

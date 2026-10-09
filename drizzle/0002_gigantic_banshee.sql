@@ -1,0 +1,1 @@
+CREATE INDEX `messages_student_created_idx` ON `messages` (`student_id`,`created_at`,`id`);

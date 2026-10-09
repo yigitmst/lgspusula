@@ -1,0 +1,1863 @@
+{
+  "6": {
+    "Matematik": {
+      "source": "https://tymm.meb.gov.tr/ogretim-programlari/ortaokul-matematik-dersi/7",
+      "units": [
+        {
+          "name": "1.Tema: Sayılar Ve Nicelikler (1)",
+          "url": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/456",
+          "topics": [
+            "Doğal Sayıların Çarpanları ve Katları",
+            "Bir Doğal Sayının Çarpanları ve Katları",
+            "Bölünebilme Kriterleri",
+            "Asal Sayılar ve Asal Çarpanlar"
+          ]
+        },
+        {
+          "name": "1.Tema:Sayılar Ve Nicelikler (2)",
+          "url": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/457",
+          "topics": [
+            "Kesirlerle İşlemler",
+            "Ondalık Gösterimleri Çözümleme",
+            "Kesir-Bölme İlişkisi",
+            "Kesirlerle Dört İşlem İçeren Problem Çözme",
+            "Uzunluk Ölçme"
+          ]
+        },
+        {
+          "name": "2.Tema: İşlemlerle Cebirsel Düşünme Ve Değişimler",
+          "url": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/458",
+          "topics": [
+            "Cebirsel İfadeler",
+            "Bilinmeyen Nicelikler",
+            "Örüntü",
+            "Cebirsel İfadeler ve Algoritma"
+          ]
+        },
+        {
+          "name": "3.Tema: Geometrik Şekiller",
+          "url": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/459",
+          "topics": [
+            "İki Paralel Doğrunun Bir Kesen ile Oluşturduğu Açılar",
+            "Üçgenin Açıları",
+            "Yamuk, Paralelkenar, Eşkenar Dörtgen, Dikdörtgen ve Karenin Kenar, Açı ve Köşegen Özellikleri"
+          ]
+        },
+        {
+          "name": "4.Tema: Geometrik Nicelikler",
+          "url": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/460",
+          "topics": [
+            "Uzunluk ve Alan Ölçme Birimleri Arasındaki İlişki",
+            "Paralelkenar ve Üçgenin Alanı",
+            "Çemberin ve Çapın Uzunlukları Arasındaki İlişki",
+            "Çemberde Merkez Açı ve Gördüğü Yay Uzunluğu"
+          ]
+        },
+        {
+          "name": "5.Tema: İstatistiksel Araştırma Süreci",
+          "url": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/461",
+          "topics": [
+            "Kategorik ve Nicel (Kesikli) Veri Dağılımları"
+          ]
+        },
+        {
+          "name": "6.Tema: Veriden Olasılığa",
+          "url": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/462",
+          "topics": [
+            "Deneysel Olasılık"
+          ]
+        }
+      ]
+    },
+    "Fen": {
+      "source": "https://tymm.meb.gov.tr/ogretim-programlari/fen-bilimleri-dersi/7",
+      "units": [
+        {
+          "name": "1. Ünite: Güneş Sistemi Ve Tutulmalar",
+          "url": "https://tymm.meb.gov.tr/fen-bilimleri-dersi/unite/409",
+          "topics": [
+            "Güneş Sistemi",
+            "Güneş ve Ay Tutulmaları"
+          ]
+        },
+        {
+          "name": "2. Ünite: Kuvvetin Etkisinde Hareket",
+          "url": "https://tymm.meb.gov.tr/fen-bilimleri-dersi/unite/410",
+          "topics": [
+            "Bileşke Kuvvet",
+            "Sabit Süratli ve Sabit Hızlı Hareket"
+          ]
+        },
+        {
+          "name": "3. Ünite: Canlılarda Sistemler",
+          "url": "https://tymm.meb.gov.tr/fen-bilimleri-dersi/unite/411",
+          "topics": [
+            "Bitki ve Hayvanlarda Üreme, Büyüme ve Gelişme",
+            "Denetleyici ve Düzenleyici Sistemler"
+          ]
+        },
+        {
+          "name": "4. Ünite: Işığın Yansıması Ve Renkler",
+          "url": "https://tymm.meb.gov.tr/fen-bilimleri-dersi/unite/412",
+          "topics": [
+            "Işığın Yansıması",
+            "Aynalar",
+            "Işığın Soğurulması"
+          ]
+        },
+        {
+          "name": "5. Ünite: Maddenin Ayırt Edici Özellikleri",
+          "url": "https://tymm.meb.gov.tr/fen-bilimleri-dersi/unite/413",
+          "topics": [
+            "Genleşme ve Büzülme",
+            "Maddenin Hâl Değişim Noktaları",
+            "Yoğunluk"
+          ]
+        },
+        {
+          "name": "6. Ünite: Elektriğin İletimi Ve Direnç",
+          "url": "https://tymm.meb.gov.tr/fen-bilimleri-dersi/unite/414",
+          "topics": [
+            "Elektriğin İletimi",
+            "Elektriksel Direnç ve Bağlı Olduğu Faktörler"
+          ]
+        },
+        {
+          "name": "7. Ünite: Sürdürülebilir Yaşam Ve Etkileşim",
+          "url": "https://tymm.meb.gov.tr/fen-bilimleri-dersi/unite/415",
+          "topics": [
+            "Biyoçeşitlilik",
+            "İnsan ve Çevre Etkileşimi"
+          ]
+        }
+      ]
+    },
+    "Türkçe": {
+      "source": "https://tymm.meb.gov.tr/ogretim-programlari/ortaokul-turkce-dersi/7",
+      "units": [
+        {
+          "name": "1. Tema: Dilimizin Zenginliği",
+          "url": "https://tymm.meb.gov.tr/ortaokul-turkce-dersi/unite/104",
+          "topics": [
+            "Türkçenin Anlam Zenginliği",
+            "Türkçenin Anlatım Gücü",
+            "Bilim ve Kültür Dili Olarak Türkçe",
+            "Türkçenin Söz Varlığı",
+            "Materyal Seçimlerini Yönetebilme",
+            "Strateji, Yöntem ve Teknik Seçimlerini Yönetebilme",
+            "Anahtar Kelime",
+            "Yüzey Anlam",
+            "Sesin Uygun Şekilde Kullanımı",
+            "Kendini Uyarlama (Öz Yansıtma)"
+          ]
+        },
+        {
+          "name": "2. Tema: Bağımsızlık Yolu",
+          "url": "https://tymm.meb.gov.tr/ortaokul-turkce-dersi/unite/118",
+          "topics": [
+            "Çözümleme",
+            "Metin İçi Karşılaştırma",
+            "Metinler Arası Karşılaştırma",
+            "Dili Yaratıcı Biçimde Kullanma",
+            "İçerik Oluşturma",
+            "Özetleme",
+            "Sınıflandırma",
+            "Duygu Yönetimi",
+            "Empati"
+          ]
+        },
+        {
+          "name": "3. Tema: Farklı Dünyalar",
+          "url": "https://tymm.meb.gov.tr/ortaokul-turkce-dersi/unite/124",
+          "topics": [
+            "Farklı Ülkelerin Kültürleri",
+            "Beden Dili",
+            "Merak",
+            "Empati",
+            "Açık Fikirlilik",
+            "Çıkarım",
+            "Çözümleme",
+            "Karşılaştırma",
+            "Düşünceyi Geliştirme Yolları",
+            "Özetleme",
+            "Sınıflandırma",
+            "Tartışma",
+            "Dili Yaratıcı Kullanma"
+          ]
+        },
+        {
+          "name": "4. Tema: İletişim Ve Sosyal İlişkiler",
+          "url": "https://tymm.meb.gov.tr/ortaokul-turkce-dersi/unite/270",
+          "topics": [
+            "Metin Yapıları",
+            "Yorumlama",
+            "Çözümleme",
+            "Özetleme",
+            "Hazırlıklı Konuşma",
+            "Yazım Kurallarını Uygulama",
+            "Noktalama İşaretlerini Uygulama"
+          ]
+        },
+        {
+          "name": "5. Tema: Bilim Ve Teknoloji",
+          "url": "https://tymm.meb.gov.tr/ortaokul-turkce-dersi/unite/278",
+          "topics": [
+            "Bilim",
+            "Teknoloji",
+            "Yapay Zekâ",
+            "Çözümleme",
+            "Söz Sanatları",
+            "Açık ve Örtük İfade",
+            "Tartışma"
+          ]
+        },
+        {
+          "name": "6. Tema: Lider Ruhlar",
+          "url": "https://tymm.meb.gov.tr/ortaokul-turkce-dersi/unite/282",
+          "topics": [
+            "Ünlü Türk Bilim İnsanları",
+            "Devlet Sanatçısı",
+            "Ünlü Türk Sporcular",
+            "Başarılı Türk Girişimciler",
+            "Finansal Okuryazarlık",
+            "Değerlendirme",
+            "Eleştirme",
+            "Probleme Çözüm Üretebilme",
+            "Azim ve Kararlılık",
+            "Girişkenlik",
+            "Yaratıcılık"
+          ]
+        }
+      ]
+    },
+    "Sosyal Bilgiler": {
+      "source": "https://tymm.meb.gov.tr/ogretim-programlari/sosyal-bilgiler-dersi/7",
+      "units": [
+        {
+          "name": "1. Öğrenme Alanı: Birlikte Yaşamak",
+          "url": "https://tymm.meb.gov.tr/sosyal-bilgiler-dersi/unite/417",
+          "topics": [
+            "Zaman İçinde Değişen Gruplar ve Roller",
+            "Kültürel Bağlarımızın ve Millî Değerlerimizin Toplumsal Birlikteliğe Etkisi",
+            "Toplumsal Sorunlar ve Çözümler Önerileri"
+          ]
+        },
+        {
+          "name": "2. Öğrenme Alanı: Evimiz Dünya",
+          "url": "https://tymm.meb.gov.tr/sosyal-bilgiler-dersi/unite/418",
+          "topics": [
+            "Ülkemizin, Kıtaların ve Okyanusların Konum Özellikleri",
+            "Doğal ve Beşerî Çevre Özellikleri Arasındaki İlişki",
+            "Ülkemizin Türk Dünyasıyla Kültürel İş birlikleri"
+          ]
+        },
+        {
+          "name": "3. Öğrenme Alanı: Ortak Mirasımız",
+          "url": "https://tymm.meb.gov.tr/sosyal-bilgiler-dersi/unite/419",
+          "topics": [
+            "Türkistan’da Kurulan İlk Türk Devletlerinin Medeniyetimize Katkıları VII-XIII. Yüzyıllar Arasında İslam Medeniyetinin İnsanlığın Ortak Mirasına Katkıları",
+            "İslamiyet’in Kabulüyle Türklerin Sosyal ve Kültürel Hayatlarında Meydana Gelen Değişimler XI- XIII. Yüzyıllar Arasında Meydana Gelen Askerî Mücadelelerin Anadolu’nun Türkleşmesi ve İslamlaşmasına Katkıları"
+          ]
+        },
+        {
+          "name": "4. Öğrenme Alanı: Yaşayan Demokrasimiz",
+          "url": "https://tymm.meb.gov.tr/sosyal-bilgiler-dersi/unite/420",
+          "topics": [
+            "Yönetimin Karar Alma Sürecini Etkileyen Unsurlar",
+            "Temel Hak ve Sorumlulukların Toplumsal Düzenin Sürdürülmesindeki Önemi",
+            "Dijitalleşme ve Teknolojik Gelişmelerin Vatandaşlık Hak ve Sorumluluklarına Etkileri"
+          ]
+        },
+        {
+          "name": "5. Öğrenme Alanı: Hayatımızdaki Ekonomi",
+          "url": "https://tymm.meb.gov.tr/sosyal-bilgiler-dersi/unite/421",
+          "topics": [
+            "Ülkemizin Kaynakları ve Ekonomik Faaliyetler",
+            "Ekonomik Faaliyetler ve Meslekler",
+            "Tasarlanan Bir Ürünün Yatırım ve Pazarlama Süreci"
+          ]
+        },
+        {
+          "name": "6. Öğrenme Alanı: Teknoloji Ve Sosyal Bilimler",
+          "url": "https://tymm.meb.gov.tr/sosyal-bilgiler-dersi/unite/422",
+          "topics": [
+            "Ulaşım ve İletişim Teknolojilerinin Kültürel Etkileşimdeki Rolü",
+            "Telif ve Patent Süreci"
+          ]
+        }
+      ]
+    },
+    "İngilizce": {
+      "source": "https://tymm.meb.gov.tr/ogretim-programlari/ingilizce-dersi-temel-egitim/7",
+      "units": [
+        {
+          "name": "Classroom Life",
+          "url": "https://tymm.meb.gov.tr/ingilizce-dersi-temel-egitim/unite/753",
+          "topics": [
+            "Daily and study routines",
+            "learning activities in the classroom",
+            "cardinal numbers 100-500",
+            "ordinal numbers 1-50"
+          ]
+        },
+        {
+          "name": "Family Life",
+          "url": "https://tymm.meb.gov.tr/ingilizce-dersi-temel-egitim/unite/759",
+          "topics": [
+            "family members’ jobs, working places, and job routines",
+            "different types of family homes and houses"
+          ]
+        },
+        {
+          "name": "Life In Nature & Global Problems",
+          "url": "https://tymm.meb.gov.tr/ingilizce-dersi-temel-egitim/unite/775",
+          "topics": [
+            "activities in nature",
+            "environmental problems in the world and solutions"
+          ]
+        },
+        {
+          "name": "Life In The Neighbourhood & City",
+          "url": "https://tymm.meb.gov.tr/ingilizce-dersi-temel-egitim/unite/762",
+          "topics": [
+            "festivals and events (sports, music, arts) in the neighbourhood and city",
+            "transportation in the neighbourhood and the city"
+          ]
+        },
+        {
+          "name": "Life In The Universe & Future",
+          "url": "https://tymm.meb.gov.tr/ingilizce-dersi-temel-egitim/unite/777",
+          "topics": [
+            "planets and the Earth as a planet",
+            "life on Earth in the future"
+          ]
+        },
+        {
+          "name": "Life In The World & Culture",
+          "url": "https://tymm.meb.gov.tr/ingilizce-dersi-temel-egitim/unite/767",
+          "topics": [
+            "Countries, nationalities, and languages in the world",
+            "food types and events from different parts of the world"
+          ]
+        },
+        {
+          "name": "Personal Life",
+          "url": "https://tymm.meb.gov.tr/ingilizce-dersi-temel-egitim/unite/757",
+          "topics": [
+            "body parts, physical appearance and clothes",
+            "personality and character"
+          ]
+        },
+        {
+          "name": "School Life",
+          "url": "https://tymm.meb.gov.tr/ingilizce-dersi-temel-egitim/unite/752",
+          "topics": [
+            "Roles, and responsibilities at school",
+            "school routines",
+            "national days and celebrations"
+          ]
+        }
+      ]
+    },
+    "Din": {
+      "source": "https://tymm.meb.gov.tr/ogretim-programlari/din-kulturu-ve-ahlak-bilgisi-dersi-temel-egitim/7",
+      "units": [
+        {
+          "name": "1. Ünite: Peygamber Ve İlahi Kitap İnancı",
+          "url": "https://tymm.meb.gov.tr/din-kulturu-ve-ahlak-bilgisi-dersi-temel-egitim/unite/73",
+          "topics": [
+            "İnsanlara Rehber: Peygamber",
+            "Peygamberlerin İlettiği Mesaj: Vahiy",
+            "İlahi Kitaplar",
+            "Bir Sure Öğreniyorum: Felak Suresi"
+          ]
+        },
+        {
+          "name": "2. Ünite: Ramazan Ve Oruç",
+          "url": "https://tymm.meb.gov.tr/din-kulturu-ve-ahlak-bilgisi-dersi-temel-egitim/unite/75",
+          "topics": [
+            "Oruç ve Kur’an Ayı Ramazan",
+            "Oruç İbadeti",
+            "Oruç İbadetinin İnsana Kazandırdıkları",
+            "Bir Dua Öğreniyorum: İftar Duası"
+          ]
+        },
+        {
+          "name": "3. Ünite: Ahlaki Davranışlar",
+          "url": "https://tymm.meb.gov.tr/din-kulturu-ve-ahlak-bilgisi-dersi-temel-egitim/unite/79",
+          "topics": [
+            "Doğru Sözlü Olmak",
+            "Merhametli Olmak",
+            "Adap ve Nezaket Kurallarına Uymak",
+            "Vatanımızı Sevmek",
+            "Bir Dua Öğreniyorum: Kunut Duaları"
+          ]
+        },
+        {
+          "name": "4. Ünite: Peygamberliğinden Önce Hz. Muhammed",
+          "url": "https://tymm.meb.gov.tr/din-kulturu-ve-ahlak-bilgisi-dersi-temel-egitim/unite/88",
+          "topics": [
+            "Hz. Muhammed’in (sav) Doğduğu Çevre",
+            "Hz. Muhammed’in (sav) Ailesi ve Çocukluğu",
+            "Hz. Muhammed’in (sav) Gençlik Yılları",
+            "Bir Sure Öğreniyorum: Fil Suresi"
+          ]
+        },
+        {
+          "name": "5. Ünite: Kültürümüzdeki Dinî Motifler",
+          "url": "https://tymm.meb.gov.tr/din-kulturu-ve-ahlak-bilgisi-dersi-temel-egitim/unite/90",
+          "topics": [
+            "Geleneğimizde Dinin İzleri",
+            "Edebiyatımızda Dinin İzleri",
+            "Musikimizde Dinin İzleri"
+          ]
+        }
+      ]
+    },
+    "Müzik": {
+      "source": "https://tymm.meb.gov.tr/ogretim-programlari/muzik-dersi-temel-egitim/7",
+      "units": [
+        {
+          "name": "1. Tema: Müzik Dili",
+          "url": "https://tymm.meb.gov.tr/muzik-dersi-temel-egitim/unite/661",
+          "topics": [
+            "İstiklâl Marşı",
+            "Farklı türdeki eserler",
+            "Belirli gün ve haftalarla ilgili eserler",
+            "Ortak repertuvar",
+            "Bedensel hareketler",
+            "Temel müzik sembolleri"
+          ]
+        },
+        {
+          "name": "2. Tema: Müzik Kültürü",
+          "url": "https://tymm.meb.gov.tr/muzik-dersi-temel-egitim/unite/662",
+          "topics": [
+            "Türk müziği türleri",
+            "Farklı türdeki eserler",
+            "Türk müziği çalgı toplulukları",
+            "Belirli gün ve haftalarla ilgili eserler",
+            "Atatürk’ün Türk müziğine verdiği önem",
+            "Ortak repertuvar",
+            "Bedensel hareketler"
+          ]
+        }
+      ]
+    },
+    "Görsel Sanatlar": {
+      "source": "https://tymm.meb.gov.tr/ogretim-programlari/gorsel-sanatlar-dersi-temel-egitim/7",
+      "units": [
+        {
+          "name": "1. Tema: Hayat Ve Sanat",
+          "url": "https://tymm.meb.gov.tr/gorsel-sanatlar-dersi-temel-egitim/unite/902",
+          "topics": [
+            "Doğal Formların Yapısal Nitelikleri",
+            "Doğadaki Çözümler ve Biyomimetik İlişkisi"
+          ]
+        },
+        {
+          "name": "2. Tema: Sanatın Görsel Dili",
+          "url": "https://tymm.meb.gov.tr/gorsel-sanatlar-dersi-temel-egitim/unite/903",
+          "topics": [
+            "Uluslararası Motifler",
+            "Stilizasyon",
+            "İleri Dönüşüm"
+          ]
+        },
+        {
+          "name": "3. Tema: Sanatçılar Ve Eserleri",
+          "url": "https://tymm.meb.gov.tr/gorsel-sanatlar-dersi-temel-egitim/unite/904",
+          "topics": [
+            "Çağdaş Türk Resim Sanatında Hat",
+            "Kaligrafi ve Ritmik İlişkiler"
+          ]
+        },
+        {
+          "name": "4. Tema: Çizim Ve Görsel İfade",
+          "url": "https://tymm.meb.gov.tr/gorsel-sanatlar-dersi-temel-egitim/unite/905",
+          "topics": [
+            "Simetrik Üçgen Kompozisyon ve Natürmort",
+            "Kompozisyonda Oran-Orantı ve Yerleştirme"
+          ]
+        },
+        {
+          "name": "5. Tema: Renk Ve Estetik",
+          "url": "https://tymm.meb.gov.tr/gorsel-sanatlar-dersi-temel-egitim/unite/906",
+          "topics": [
+            "Resim Sanatında Portre",
+            "Merkezî Kompozisyon"
+          ]
+        },
+        {
+          "name": "6. Tema: Millî Değerler Ve Sanat",
+          "url": "https://tymm.meb.gov.tr/gorsel-sanatlar-dersi-temel-egitim/unite/907",
+          "topics": [
+            "Cumhuriyet’in Temel Değerleri",
+            "Özgürlük, Eşitlik, Adalet ve Bağımsızlık"
+          ]
+        },
+        {
+          "name": "7. Tema: Müze Ve Kültür",
+          "url": "https://tymm.meb.gov.tr/gorsel-sanatlar-dersi-temel-egitim/unite/908",
+          "topics": [
+            "Müze Türleri ve Koleksiyonları",
+            "Geri Dönüşüm Müzesi"
+          ]
+        }
+      ]
+    },
+    "Beden Eğitimi ve Spor": {
+      "source": "https://tymm.meb.gov.tr/ogretim-programlari/beden-egitimi-ve-spor-temel-egitim/7",
+      "units": [
+        {
+          "name": "1. Tema: Sağlıkla İlgili Fiziksel Uygunluk",
+          "url": "https://tymm.meb.gov.tr/beden-egitimi-ve-spor-temel-egitim/unite/704",
+          "topics": [
+            "Sağlıkla İlgili Fiziksel Uygunluk",
+            "Fiziksel Uygunluk ve Zindelik İlişkisi",
+            "Temel İlk Yardım Uygulamaları",
+            "Fiziksel Aktiviteye Katılımı Destekleyen Teknolojiler"
+          ]
+        },
+        {
+          "name": "2. Tema: Hedef Oyunları",
+          "url": "https://tymm.meb.gov.tr/beden-egitimi-ve-spor-temel-egitim/unite/705",
+          "topics": [
+            "Hedef Oyunlarına İlişkin Kavramlar",
+            "Hedef Oyunlarına İlişkin Hareket Becerileri",
+            "Hedef Oyunlarına İlişkin Taktik ve Stratejiler"
+          ]
+        },
+        {
+          "name": "3. Tema: Spor Engel Tanımaz",
+          "url": "https://tymm.meb.gov.tr/beden-egitimi-ve-spor-temel-egitim/unite/706",
+          "topics": [
+            "Engelli Sporlarına İlişkin Kavramlar",
+            "Engelli Sporlarına İlişkin Hareket Becerileri",
+            "Engelli Sporlarına İlişkin Taktik/Stratejiler"
+          ]
+        },
+        {
+          "name": "4. Tema: Kültürel Birikimlerimiz Ve Oyun",
+          "url": "https://tymm.meb.gov.tr/beden-egitimi-ve-spor-temel-egitim/unite/707",
+          "topics": [
+            "Mustafa Kemal Atatürk’ün Spora Verdiği Önem",
+            "Halk Oyunları",
+            "Geleneksel Oyunlar"
+          ]
+        },
+        {
+          "name": "5. Tema: Hücum Oyunları",
+          "url": "https://tymm.meb.gov.tr/beden-egitimi-ve-spor-temel-egitim/unite/708",
+          "topics": [
+            "Hücum Oyunlarında Güvenli Ortam",
+            "Hücum Oyunlarına İlişkin Kavramlar",
+            "Hücum Oyunları İlişkin Beceriler",
+            "Hücum Oyunları İlişkin Taktik ve Stratejiler"
+          ]
+        }
+      ]
+    },
+    "Bilişim Teknolojileri ve Yazılım": {
+      "source": "https://tymm.meb.gov.tr/ogretim-programlari/bilisim-teknolojileri-ve-yazilim-dersi/7",
+      "units": [
+        {
+          "name": "1. Tema: Bilişim Teknolojilerinin Hayatımızdaki Yeri",
+          "url": "https://tymm.meb.gov.tr/bilisim-teknolojileri-ve-yazilim-dersi/unite/681",
+          "topics": [
+            "Yenilikçi Bilişim Teknolojileri",
+            "Bilişim Teknolojilerinin Geleceği"
+          ]
+        },
+        {
+          "name": "2. Tema: Dijital Ürün Tasarımı Ve Geliştirme",
+          "url": "https://tymm.meb.gov.tr/bilisim-teknolojileri-ve-yazilim-dersi/unite/683",
+          "topics": [
+            "Tablolama Programlarına Giriş",
+            "Gerçek Yaşam Problemleri ile Tablolama",
+            "Veri Toplama ve Düzenleme",
+            "Veri Analizi ve Görselleştirme",
+            "Ses Düzenleme Programlarına Giriş",
+            "Ses Dosyası için Kurgu Oluşturma",
+            "Ses Dosyası Geliştirme",
+            "Video Düzenleme Programlarına Giriş",
+            "Video Dosyası için Kurgu Oluşturma",
+            "Video Dosyası Geliştirme"
+          ]
+        },
+        {
+          "name": "3. Tema: Bilgisayar Ağları Ve İletişim",
+          "url": "https://tymm.meb.gov.tr/bilisim-teknolojileri-ve-yazilim-dersi/unite/684",
+          "topics": [
+            "İnternette İleri Düzey Arama",
+            "İletişim Teknolojileri ve Çeşitleri",
+            "Etkileşimli Web Araçları"
+          ]
+        },
+        {
+          "name": "4. Tema: Bilişim Etiği Ve Siber Güvenlik",
+          "url": "https://tymm.meb.gov.tr/bilisim-teknolojileri-ve-yazilim-dersi/unite/685",
+          "topics": [
+            "Bilişim Etiği ve İlkeleri",
+            "Telif Hakkı",
+            "Güvenli Siber Ortam",
+            "Lisans Türleri"
+          ]
+        },
+        {
+          "name": "5. Tema: Yapay Zekâ",
+          "url": "https://tymm.meb.gov.tr/bilisim-teknolojileri-ve-yazilim-dersi/unite/687",
+          "topics": [
+            "Yapay Zekâda Verinin Rolü",
+            "Yapay Zekâ Araçları",
+            "Yapay Zekâ Araçları ile Model Geliştirme"
+          ]
+        },
+        {
+          "name": "6. Tema: Yazılım Tasarımı Ve Programlama",
+          "url": "https://tymm.meb.gov.tr/bilisim-teknolojileri-ve-yazilim-dersi/unite/688",
+          "topics": [
+            "Blok Tabanlı Programlama Ortamına Giriş",
+            "Blok Tabanlı Ortamda Tasarım ve Programlama",
+            "Yapay Zekâ Destekli Ürün Geliştirme ve Sunum"
+          ]
+        }
+      ]
+    }
+  },
+  "7": {
+    "Matematik": {
+      "source": "https://tymm.meb.gov.tr/ogretim-programlari/ortaokul-matematik-dersi/8",
+      "units": [
+        {
+          "name": "1.Tema: Sayılar Ve Nicelikler (1)",
+          "url": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/463",
+          "topics": [
+            "Rasyonel Sayılar ve Rasyonel Sayılarla İşlemler",
+            "Tam Sayılar",
+            "Rasyonel Sayılar ve Farklı Temsilleri",
+            "Rasyonel Sayılarda Karşılaştırma ve Sıralama",
+            "Rasyonel Sayılarla İşlemler ve Problem Çözme"
+          ]
+        },
+        {
+          "name": "1.Tema: Sayılar Ve Nicelikler (2)",
+          "url": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/464",
+          "topics": [
+            "Oran ve Orantı",
+            "Oran",
+            "Orantılı Durumlar",
+            "Doğru Orantılı Durumlara İlişkin Problem Çözme"
+          ]
+        },
+        {
+          "name": "2.Tema: İşlemlerle Cebirsel Düşünme Ve Değişimler",
+          "url": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/465",
+          "topics": [
+            "Cebirsel İfadelerle İşlemler",
+            "Denklem ve Eşitsizlikler",
+            "İspat",
+            "Cebirsel İfadelerle İşlemler ve Algoritma"
+          ]
+        },
+        {
+          "name": "3. Tema: Dönüşüm",
+          "url": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/466",
+          "topics": [
+            "Yansıma Dönüşümü",
+            "Orta Dikme ve Açıortay İnşası"
+          ]
+        },
+        {
+          "name": "4. Tema: Geometrik Nicelikler (1)",
+          "url": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/467",
+          "topics": [
+            "Cisimlerin Farklı Yönlerden Görünümleri",
+            "Dikdörtgenler Prizmasının Hacmi ve Yüzey Alanı",
+            "Hacim Ölçme Birimleri"
+          ]
+        },
+        {
+          "name": "4.Tema: Geometrik Nicelikler (2)",
+          "url": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/468",
+          "topics": [
+            "Eşkenar Dörtgen ve Yamuk",
+            "Daire ve Daire Diliminin Alanı"
+          ]
+        },
+        {
+          "name": "5.Tema: Geometrik Şekiller",
+          "url": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/469",
+          "topics": [
+            "Üçgenlerde Kenarortay ve İnşası, Açıortay, Yükseklik"
+          ]
+        },
+        {
+          "name": "6.Tema: İstatistiksel Araştırma Süreci",
+          "url": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/470",
+          "topics": [
+            "Kategorik ve Nicel (Sürekli) Veri Dağılımları"
+          ]
+        },
+        {
+          "name": "7.Tema: Veriden Olasılığa",
+          "url": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/471",
+          "topics": [
+            "Teorik Olasılık"
+          ]
+        }
+      ]
+    },
+    "Fen": {
+      "source": "https://tymm.meb.gov.tr/ogretim-programlari/fen-bilimleri-dersi/8",
+      "units": [
+        {
+          "name": "1. Ünite: Uzay Çağı",
+          "url": "https://tymm.meb.gov.tr/fen-bilimleri-dersi/unite/416",
+          "topics": [
+            "Türkiye ve Uzay Araştırmaları",
+            "Uzayda Neler Var?"
+          ]
+        },
+        {
+          "name": "2. Ünite: Kuvvet Ve Enerjiyi Keşfedelim",
+          "url": "https://tymm.meb.gov.tr/fen-bilimleri-dersi/unite/429",
+          "topics": [
+            "Kuvvet, İş ve Enerji İlişkisi",
+            "Enerji Dönüşümleri"
+          ]
+        },
+        {
+          "name": "3. Ünite: Vücudumuzdaki Sistemler",
+          "url": "https://tymm.meb.gov.tr/fen-bilimleri-dersi/unite/430",
+          "topics": [
+            "Sindirim Sistemi",
+            "Dolaşım Sistemi",
+            "Solunum Sistemi",
+            "Boşaltım Sistemi"
+          ]
+        },
+        {
+          "name": "4. Ünite: Işığın Kırılması Ve Mercekler",
+          "url": "https://tymm.meb.gov.tr/fen-bilimleri-dersi/unite/431",
+          "topics": [
+            "Işığın Kırılması",
+            "Mercekler"
+          ]
+        },
+        {
+          "name": "5. Ünite: Maddenin Doğasına Yolculuk",
+          "url": "https://tymm.meb.gov.tr/fen-bilimleri-dersi/unite/432",
+          "topics": [
+            "Maddenin Tanecikli Yapısı",
+            "Saf Maddeler",
+            "Karışımlar",
+            "Karışımların Ayrılması"
+          ]
+        },
+        {
+          "name": "6. Ünite: Elektriklenme",
+          "url": "https://tymm.meb.gov.tr/fen-bilimleri-dersi/unite/433",
+          "topics": [
+            "Elektrik Yükleri ve Elektriklenme"
+          ]
+        },
+        {
+          "name": "7. Ünite: Sürdürülebilir Yaşam Ve Enerji",
+          "url": "https://tymm.meb.gov.tr/fen-bilimleri-dersi/unite/434",
+          "topics": [
+            "Besin Zinciri ve Enerji Akışı",
+            "Sürdürülebilir Yaşam"
+          ]
+        }
+      ]
+    },
+    "Türkçe": {
+      "source": "https://tymm.meb.gov.tr/ogretim-programlari/ortaokul-turkce-dersi/8",
+      "units": [
+        {
+          "name": "1. Tema: Hayat Boyu Gelişim",
+          "url": "https://tymm.meb.gov.tr/ortaokul-turkce-dersi/unite/287",
+          "topics": [
+            "Motivasyon",
+            "Çalışkanlık",
+            "Başarı",
+            "Zaman Yönetimi",
+            "Karar Verme",
+            "Çözümleme",
+            "Tahmin Etme",
+            "Söz Varlığı",
+            "Yansıtma"
+          ]
+        },
+        {
+          "name": "2. Tema: Bir Hilal Uğruna",
+          "url": "https://tymm.meb.gov.tr/ortaokul-turkce-dersi/unite/290",
+          "topics": [
+            "Millî Mücadele",
+            "Millî Egemenlik",
+            "Atatürk",
+            "Kahramanlık",
+            "Sınıflandırma",
+            "Metin Yapıları",
+            "Düşünceyi Geliştirme Yolları",
+            "Söz Sanatları",
+            "Medya İçerikleri",
+            "Derin Anlam",
+            "İkna Etme Teknikleri"
+          ]
+        },
+        {
+          "name": "3. Tema: İletişim Ve Sosyal İlişkiler",
+          "url": "https://tymm.meb.gov.tr/ortaokul-turkce-dersi/unite/291",
+          "topics": [
+            "İletişim",
+            "İletişim Ortamları",
+            "Nezaket ve Görgü Kuralları",
+            "Çıkarım",
+            "Çözümleme",
+            "Eleştirme",
+            "Değerlendirme",
+            "Özetleme",
+            "Düşünceyi Geliştirme Yolları",
+            "Söz Sanatları",
+            "Tartışma"
+          ]
+        },
+        {
+          "name": "4. Tema: Türk Sanatı",
+          "url": "https://tymm.meb.gov.tr/ortaokul-turkce-dersi/unite/293",
+          "topics": [
+            "Klasik Türk Sanatları",
+            "Geleneksel El Sanatları",
+            "Mimari",
+            "Resim",
+            "Müzik",
+            "Karşılaştırma",
+            "Eleştirme",
+            "Görselle İletilen Anlam",
+            "Açık ve Örtük İfade",
+            "Hazırlıklı Konuşma",
+            "Yazım ve Noktalama",
+            "Çoklu Ortam Ögeleri"
+          ]
+        },
+        {
+          "name": "5. Tema: Okuma Kültürü",
+          "url": "https://tymm.meb.gov.tr/ortaokul-turkce-dersi/unite/309",
+          "topics": [
+            "Okuma",
+            "Okuma Alışkanlığı",
+            "Dijital Okuma",
+            "Anahtar Kelime",
+            "Karşılaştırma",
+            "Çözümleme",
+            "Yorumlama",
+            "Değerlendirme",
+            "Tartışma",
+            "Problem Çözme"
+          ]
+        },
+        {
+          "name": "6. Tema: Hak Ve Sorumluluklar",
+          "url": "https://tymm.meb.gov.tr/ortaokul-turkce-dersi/unite/312",
+          "topics": [
+            "Hak",
+            "Sorumluluk",
+            "Adalet",
+            "Özgürlük",
+            "Eşitlik",
+            "Barış",
+            "Karşılaştırma",
+            "Çözümleme",
+            "Değerlendirme",
+            "Sözlü Sunum",
+            "Çoklu Ortam Ögeleri",
+            "Geçiş ve Bağlantı İfadeleri",
+            "Açık ve Örtük İfade"
+          ]
+        }
+      ]
+    },
+    "Sosyal Bilgiler": {
+      "source": "https://tymm.meb.gov.tr/ogretim-programlari/sosyal-bilgiler-dersi/8",
+      "units": [
+        {
+          "name": "1. Öğrenme Alanı: Birlikte Yaşamak",
+          "url": "https://tymm.meb.gov.tr/sosyal-bilgiler-dersi/unite/423",
+          "topics": [
+            "Gruplarda ve Sosyal Hayatta İletişimin Önemi",
+            "Özel Gereksinimli Bireyler İçin Fırsat Eşitliği",
+            "Millî Meseleler Karşısında Türk Toplumunun Tutum ve Davranışları"
+          ]
+        },
+        {
+          "name": "2. Öğrenme Alanı: Evimiz Dünya",
+          "url": "https://tymm.meb.gov.tr/sosyal-bilgiler-dersi/unite/424",
+          "topics": [
+            "Küreselleşmenin İnsan ve Toplum Hayatına Etkisi",
+            "Bölgesel ve Küresel Sorunların Çözümünde Ülkemizin Rolü"
+          ]
+        },
+        {
+          "name": "3. Öğrenme Alanı: Ortak Mirasımız",
+          "url": "https://tymm.meb.gov.tr/sosyal-bilgiler-dersi/unite/425",
+          "topics": [
+            "Osmanlı Devleti’nin Cihan Devleti Hâline Gelmesini Sağlayan Politikalar",
+            "Osmanlı Devleti’nin Uygulamaya Koyduğu Yenilikler",
+            "Osmanlı Kültür ve Medeniyeti"
+          ]
+        },
+        {
+          "name": "4. Öğrenme Alanı: Yaşayan Demokrasimiz",
+          "url": "https://tymm.meb.gov.tr/sosyal-bilgiler-dersi/unite/426",
+          "topics": [
+            "Türkiye Cumhuriyeti’nin Nitelikleri",
+            "Türkiye Cumhuriyeti’nin Yönetim Yapısı",
+            "Ülkemizde Demokrasinin Gelişimi",
+            "Demokrasinin Uygulanma Sürecinde Karşılaşılan Sorunlar"
+          ]
+        },
+        {
+          "name": "5. Öğrenme Alanı: Hayatımızdaki Ekonomi",
+          "url": "https://tymm.meb.gov.tr/sosyal-bilgiler-dersi/unite/427",
+          "topics": [
+            "Millî Kalkınma Hamleleri",
+            "Ekonomik Gelişmişlik ile Üretim, Dağıtım ve Tüketim Arasındaki Döngü"
+          ]
+        },
+        {
+          "name": "6. Öğrenme Alanı: Teknoloji Ve Sosyal Bilimler",
+          "url": "https://tymm.meb.gov.tr/sosyal-bilgiler-dersi/unite/428",
+          "topics": [
+            "Bilimsel ve Teknolojik Gelişmelerin Gelecekteki Hayata Etkisi",
+            "Sosyal Bilimlerin Çalışma Alanları",
+            "Toplumsal Hayatta Karşılaşılabilecek Problemlere Çözüm Üretme"
+          ]
+        }
+      ]
+    },
+    "İngilizce": {
+      "source": "https://tymm.meb.gov.tr/ogretim-programlari/ingilizce-dersi-temel-egitim/8",
+      "units": [
+        {
+          "name": "Theme 1: School Life & Education",
+          "url": "https://tymm.meb.gov.tr/ingilizce-dersi-temel-egitim/unite/717",
+          "topics": [
+            "extra-curricular activities at school",
+            "competitions and celebrations at school",
+            "national days and celebrations"
+          ]
+        },
+        {
+          "name": "Theme 2: Classroom Life & Learning",
+          "url": "https://tymm.meb.gov.tr/ingilizce-dersi-temel-egitim/unite/722",
+          "topics": [
+            "Technological tools for learning",
+            "learning activities in the classroom",
+            "cardinal numbers (500- 1000)",
+            "ordinal numbers (50-100)"
+          ]
+        },
+        {
+          "name": "Theme 3: Personal Life & Well-Being",
+          "url": "https://tymm.meb.gov.tr/ingilizce-dersi-temel-egitim/unite/730",
+          "topics": [
+            "body parts, illnesses, and keeping good health",
+            "the place of technology in people’s lives"
+          ]
+        },
+        {
+          "name": "Theme 4: Family Life & Home",
+          "url": "https://tymm.meb.gov.tr/ingilizce-dersi-temel-egitim/unite/745",
+          "topics": [
+            "Family members’ hobbies ( sports ,books, films, music, cooking)",
+            "generation gap in the family",
+            "problems and solutions"
+          ]
+        },
+        {
+          "name": "Theme 5: Life In The Neighbourhood & City And Social Life",
+          "url": "https://tymm.meb.gov.tr/ingilizce-dersi-temel-egitim/unite/749",
+          "topics": [
+            "Public services in the neighbourhood and city",
+            "life in different kinds of cities"
+          ]
+        },
+        {
+          "name": "Theme 6: Life In The World & Culture",
+          "url": "https://tymm.meb.gov.tr/ingilizce-dersi-temel-egitim/unite/754",
+          "topics": [
+            "Capitals, landmarks, famous places, and activities in capitals",
+            "sports events in different parts of the world"
+          ]
+        },
+        {
+          "name": "Theme 7: Life In Nature",
+          "url": "https://tymm.meb.gov.tr/ingilizce-dersi-temel-egitim/unite/761",
+          "topics": [
+            "Animals and natural resources in nature",
+            "protecting animals and nature"
+          ]
+        },
+        {
+          "name": "Theme 8: Life In The Universe & Future",
+          "url": "https://tymm.meb.gov.tr/ingilizce-dersi-temel-egitim/unite/778",
+          "topics": [
+            "Space technology",
+            "life in the future with robots"
+          ]
+        }
+      ]
+    },
+    "Din": {
+      "source": "https://tymm.meb.gov.tr/ogretim-programlari/din-kulturu-ve-ahlak-bilgisi-dersi-temel-egitim/8",
+      "units": [
+        {
+          "name": "1. Ünite: Melek Ve Ahiret İnancı",
+          "url": "https://tymm.meb.gov.tr/din-kulturu-ve-ahlak-bilgisi-dersi-temel-egitim/unite/119",
+          "topics": [
+            "Varlıklar Âlemi",
+            "Dünya ve Ahiret Hayatı",
+            "Melek ve Ahiret İnancının İnsan Davranışına Etkileri",
+            "Bir Sure Öğreniyorum: Nâs Suresi"
+          ]
+        },
+        {
+          "name": "2. Ünite: Hac, Umre Ve Kurban",
+          "url": "https://tymm.meb.gov.tr/din-kulturu-ve-ahlak-bilgisi-dersi-temel-egitim/unite/120",
+          "topics": [
+            "Hac ve Umre İbadeti",
+            "Kurban İbadeti",
+            "Hac ve Kurban İbadetinin Kültürümüze Yansımaları",
+            "Bir Sure Öğreniyorum: Kâfirun Suresi"
+          ]
+        },
+        {
+          "name": "3. Ünite: İslam Düşüncesinde Yorumlar",
+          "url": "https://tymm.meb.gov.tr/din-kulturu-ve-ahlak-bilgisi-dersi-temel-egitim/unite/129",
+          "topics": [
+            "Din Anlayışındaki Yorum Farklılıkları",
+            "İslam Düşüncesinde Yorum Biçimleri",
+            "Kültürümüzdeki Tasavvufi Yorumlar",
+            "Alevilik Bektaşilik ile İlgili Temel Kavramlar ve Cem Erkânları"
+          ]
+        },
+        {
+          "name": "4. Ünite: Peygamber Olarak Hz. Muhammed",
+          "url": "https://tymm.meb.gov.tr/din-kulturu-ve-ahlak-bilgisi-dersi-temel-egitim/unite/130",
+          "topics": [
+            "Hz. Muhammed’in Daveti: Mekke Dönemi",
+            "Hicret",
+            "Hz. Muhammed’in Daveti: Medine Dönemi",
+            "Bir Sure Öğreniyorum: Nasr Suresi"
+          ]
+        },
+        {
+          "name": "5. Ünite: Yaşayan Dünya Dinleri",
+          "url": "https://tymm.meb.gov.tr/din-kulturu-ve-ahlak-bilgisi-dersi-temel-egitim/unite/131",
+          "topics": [
+            "Yahudilik",
+            "Hristiyanlık",
+            "Hinduizm",
+            "Budizm"
+          ]
+        }
+      ]
+    },
+    "Müzik": {
+      "source": "https://tymm.meb.gov.tr/ogretim-programlari/muzik-dersi-temel-egitim/8",
+      "units": [
+        {
+          "name": "1. Tema: Müzik Dili",
+          "url": "https://tymm.meb.gov.tr/muzik-dersi-temel-egitim/unite/663",
+          "topics": [
+            "İstiklâl Marşı",
+            "Farklı türdeki eserler",
+            "Belirli gün ve haftalarla ilgili eserler",
+            "Ortak repertuvar",
+            "Bedensel hareketler",
+            "Temel müzik sembolleri"
+          ]
+        },
+        {
+          "name": "2. Tema: Müzik Kültürü",
+          "url": "https://tymm.meb.gov.tr/muzik-dersi-temel-egitim/unite/664",
+          "topics": [
+            "Klasik Batı Müziği dönemleri",
+            "Klasik Batı Müziği toplulukları",
+            "Farklı türdeki eserler",
+            "İnsan sesleri",
+            "İnsan sesi toplulukları",
+            "Belirli gün ve haftalarla ilgili eserler",
+            "Ülkemizdeki mesleki müzik eğitimi kurumları",
+            "Atatürk’ün müzik eğitimine verdiği önem",
+            "Ortak repertuvar",
+            "Bedensel hareketler"
+          ]
+        }
+      ]
+    },
+    "Görsel Sanatlar": {
+      "source": "https://tymm.meb.gov.tr/ogretim-programlari/gorsel-sanatlar-dersi-temel-egitim/8",
+      "units": [
+        {
+          "name": "1. Tema: Hayat Ve Sanat",
+          "url": "https://tymm.meb.gov.tr/gorsel-sanatlar-dersi-temel-egitim/unite/909",
+          "topics": [
+            "Mekân Estetiği ve Biyofilik İlişkisi",
+            "Renklerin, Dokuların ve Biçimlerin Psikolojik Etkileri"
+          ]
+        },
+        {
+          "name": "2. Tema: Sanatın Görsel Dili",
+          "url": "https://tymm.meb.gov.tr/gorsel-sanatlar-dersi-temel-egitim/unite/910",
+          "topics": [
+            "Tasarım Ürünleri ve Logolardaki Göstergeler",
+            "Amblem ve Logo Tasarımı",
+            "Stilizasyon ve Deformasyon"
+          ]
+        },
+        {
+          "name": "3. Tema: Sanatçılar Ve Eserleri",
+          "url": "https://tymm.meb.gov.tr/gorsel-sanatlar-dersi-temel-egitim/unite/911",
+          "topics": [
+            "Çağdaş Türk Resim Sanatında İzlenimci Eserler",
+            "Avrupa’da İzlenimcilik ve Kültürel Etkileşim"
+          ]
+        },
+        {
+          "name": "4. Tema: Çizim Ve Görsel İfade",
+          "url": "https://tymm.meb.gov.tr/gorsel-sanatlar-dersi-temel-egitim/unite/912",
+          "topics": [
+            "Perspektif ve İç Mekân"
+          ]
+        },
+        {
+          "name": "5. Tema: Renk Ve Estetik",
+          "url": "https://tymm.meb.gov.tr/gorsel-sanatlar-dersi-temel-egitim/unite/913",
+          "topics": [
+            "Mekân ve Natürmort",
+            "Kompozisyonda Diyagonal Yerleşim ve Asimetrik Denge"
+          ]
+        },
+        {
+          "name": "6. Tema: Millî Değerler Ve Sanat",
+          "url": "https://tymm.meb.gov.tr/gorsel-sanatlar-dersi-temel-egitim/unite/914",
+          "topics": [
+            "Dünya Çocuklarına Yönelik Barış ve Dostluk Mesajları",
+            "Kültürlerarası Dostluk ve Dayanışma"
+          ]
+        },
+        {
+          "name": "7. Tema: Müze Ve Kültür",
+          "url": "https://tymm.meb.gov.tr/gorsel-sanatlar-dersi-temel-egitim/unite/915",
+          "topics": [
+            "Türk Müzeciliği",
+            "Sanal Müze"
+          ]
+        }
+      ]
+    },
+    "Beden Eğitimi ve Spor": {
+      "source": "https://tymm.meb.gov.tr/ogretim-programlari/beden-egitimi-ve-spor-temel-egitim/8",
+      "units": [
+        {
+          "name": "1. Tema: Performansla İlgılı Fızıksel Uygunluk",
+          "url": "https://tymm.meb.gov.tr/beden-egitimi-ve-spor-temel-egitim/unite/709",
+          "topics": [
+            "Egzersiz ve Beslenme İlişkisi",
+            "Performansla İlgili Fiziksel Uygunluk Bileşenleri",
+            "Egzersiz ve Beslenme Konusunda Medyada Yer Alan Kaynaklar"
+          ]
+        },
+        {
+          "name": "2. Tema: Fıle Ve Duvar Oyunları",
+          "url": "https://tymm.meb.gov.tr/beden-egitimi-ve-spor-temel-egitim/unite/710",
+          "topics": [
+            "File ve Duvar Oyunlarına İlişkin Kavramlar",
+            "File ve Duvar Oyunlarına İlişkin Beceriler",
+            "File ve Duvar Oyunlarına İlişkin Taktik ve Stratejiler"
+          ]
+        },
+        {
+          "name": "3. Tema: Açık Alan Ve Macera Etkınlıklerı",
+          "url": "https://tymm.meb.gov.tr/beden-egitimi-ve-spor-temel-egitim/unite/711",
+          "topics": [
+            "Açık Alan ve Macera Etkinliklerinde Güvenli Ortam",
+            "Açık Alan ve Macera Etkinliklerine İlişkin Hareket Becerileri",
+            "Açık Alan ve Macera Etkinliklerinde Liderlik"
+          ]
+        },
+        {
+          "name": "4. Tema: Kültürel Bırıkımlerımız Ve Oyun",
+          "url": "https://tymm.meb.gov.tr/beden-egitimi-ve-spor-temel-egitim/unite/712",
+          "topics": [
+            "Ülkemizin Spor Öncüleri",
+            "Halk Oyunları",
+            "Geleneksel Oyunlar"
+          ]
+        },
+        {
+          "name": "5. Tema: Hücum Oyunları",
+          "url": "https://tymm.meb.gov.tr/beden-egitimi-ve-spor-temel-egitim/unite/713",
+          "topics": [
+            "Hücum Oyunlarına İlişkin Kavramlar",
+            "Hücum Oyunları İlişkin Beceriler",
+            "Hücum Oyunları İlişkin Taktik ve Stratejiler"
+          ]
+        }
+      ]
+    },
+    "Teknoloji ve Tasarım": {
+      "source": "https://tymm.meb.gov.tr/ogretim-programlari/teknoloji-tasarim-dersi/8",
+      "units": [
+        {
+          "name": "1. Ünite: Teknoloji Ve Tasarım Öğreniyorum",
+          "url": "https://tymm.meb.gov.tr/teknoloji-tasarim-dersi/unite/1437",
+          "topics": []
+        },
+        {
+          "name": "2. Ünite: Temel Tasarım",
+          "url": "https://tymm.meb.gov.tr/teknoloji-tasarim-dersi/unite/1438",
+          "topics": []
+        },
+        {
+          "name": "3. Ünite: Tasarım Odaklı Süreç",
+          "url": "https://tymm.meb.gov.tr/teknoloji-tasarim-dersi/unite/1439",
+          "topics": []
+        },
+        {
+          "name": "4. Ünite: Bilgisayar Destekli Tasarım",
+          "url": "https://tymm.meb.gov.tr/teknoloji-tasarim-dersi/unite/1440",
+          "topics": []
+        },
+        {
+          "name": "5. Ünite: Mimari Tasarım",
+          "url": "https://tymm.meb.gov.tr/teknoloji-tasarim-dersi/unite/1441",
+          "topics": []
+        },
+        {
+          "name": "6. Ünite: Doğadan Tasarıma",
+          "url": "https://tymm.meb.gov.tr/teknoloji-tasarim-dersi/unite/1442",
+          "topics": []
+        },
+        {
+          "name": "7. Ünite: Enerjinin Dönüşümü Ve Tasarım",
+          "url": "https://tymm.meb.gov.tr/teknoloji-tasarim-dersi/unite/1443",
+          "topics": []
+        },
+        {
+          "name": "8. Ünite: Bütünleşik Öğrenme: Steam",
+          "url": "https://tymm.meb.gov.tr/teknoloji-tasarim-dersi/unite/1444",
+          "topics": []
+        },
+        {
+          "name": "9. Ünite: Yapay Zekâ Ve Akıllı Ürünler",
+          "url": "https://tymm.meb.gov.tr/teknoloji-tasarim-dersi/unite/1445",
+          "topics": []
+        }
+      ]
+    }
+  },
+  "8": {
+    "Matematik": {
+      "source": "https://mufredat.meb.gov.tr/Dosyalar/201813017165445-MATEMAT%C4%B0K%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%202018v.pdf",
+      "units": [
+        {
+          "name": "Sayılar ve İşlemler",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/201813017165445-MATEMAT%C4%B0K%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%202018v.pdf",
+          "topics": [
+            "Çarpanlar ve katlar",
+            "Asal çarpanlar",
+            "EBOB ve EKOK",
+            "Aralarında asal sayılar",
+            "Tam sayıların tam sayı kuvvetleri",
+            "Üslü ifadelerde temel kurallar",
+            "Ondalık gösterimleri çözümleme",
+            "Bilimsel gösterim",
+            "Kareköklü ifadeler",
+            "Kareköklü ifadelerde işlemler",
+            "Gerçek sayılar"
+          ]
+        },
+        {
+          "name": "Cebir",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/201813017165445-MATEMAT%C4%B0K%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%202018v.pdf",
+          "topics": [
+            "Cebirsel ifadeler ve özdeşlikler",
+            "Çarpanlara ayırma",
+            "Birinci dereceden bir bilinmeyenli denklemler",
+            "Koordinat sistemi",
+            "Doğrusal ilişkiler ve doğrusal denklemler",
+            "Doğrunun eğimi",
+            "Birinci dereceden bir bilinmeyenli eşitsizlikler"
+          ]
+        },
+        {
+          "name": "Geometri ve Ölçme",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/201813017165445-MATEMAT%C4%B0K%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%202018v.pdf",
+          "topics": [
+            "Üçgenlerde kenar, açı, kenarortay, açıortay ve yükseklik",
+            "Üçgen eşitsizliği",
+            "Üçgen çizimi",
+            "Pisagor bağıntısı",
+            "Öteleme ve yansıma",
+            "Eşlik ve benzerlik",
+            "Dik prizmalar",
+            "Dik dairesel silindir",
+            "Dik piramit",
+            "Dik koni"
+          ]
+        },
+        {
+          "name": "Veri İşleme",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/201813017165445-MATEMAT%C4%B0K%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%202018v.pdf",
+          "topics": [
+            "Çizgi, sütun ve daire grafikleri",
+            "Grafiklerle gösterim ve grafikler arasında dönüşüm"
+          ]
+        },
+        {
+          "name": "Olasılık",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/201813017165445-MATEMAT%C4%B0K%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%202018v.pdf",
+          "topics": [
+            "Olası durumlar",
+            "Daha fazla, eşit ve daha az olasılıklı olaylar",
+            "Eş olasılıklı olaylar",
+            "Basit olayların olma olasılığı"
+          ]
+        }
+      ]
+    },
+    "Fen": {
+      "source": "https://mufredat.meb.gov.tr/Dosyalar/201812312311937-FEN%20B%C4%B0L%C4%B0MLER%C4%B0%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI2018.pdf",
+      "units": [
+        {
+          "name": "Mevsimler ve İklim",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/201812312311937-FEN%20B%C4%B0L%C4%B0MLER%C4%B0%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI2018.pdf",
+          "topics": [
+            "Mevsimlerin Oluşumu",
+            "İklim ve Hava Hareketleri"
+          ]
+        },
+        {
+          "name": "DNA ve Genetik Kod",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/201812312311937-FEN%20B%C4%B0L%C4%B0MLER%C4%B0%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI2018.pdf",
+          "topics": [
+            "DNA ve Genetik Kod",
+            "Kalıtım",
+            "Mutasyon ve Modifikasyon",
+            "Adaptasyon (Çevreye Uyum)",
+            "Biyoteknoloji"
+          ]
+        },
+        {
+          "name": "Basınç",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/201812312311937-FEN%20B%C4%B0L%C4%B0MLER%C4%B0%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI2018.pdf",
+          "topics": [
+            "Basınç"
+          ]
+        },
+        {
+          "name": "Madde ve Endüstri",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/201812312311937-FEN%20B%C4%B0L%C4%B0MLER%C4%B0%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI2018.pdf",
+          "topics": [
+            "Periyodik Sistem",
+            "Fiziksel ve Kimyasal Değişimler",
+            "Kimyasal Tepkimeler",
+            "Asitler ve Bazlar",
+            "Maddenin Isı ile Etkileşimi",
+            "Türkiye’de Kimya Endüstrisi"
+          ]
+        },
+        {
+          "name": "Basit Makineler",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/201812312311937-FEN%20B%C4%B0L%C4%B0MLER%C4%B0%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI2018.pdf",
+          "topics": [
+            "Basit Makineler"
+          ]
+        },
+        {
+          "name": "Enerji Dönüşümleri ve Çevre Bilimi",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/201812312311937-FEN%20B%C4%B0L%C4%B0MLER%C4%B0%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI2018.pdf",
+          "topics": [
+            "Besin Zinciri ve Enerji Akışı",
+            "Enerji Dönüşümleri",
+            "Madde Döngüleri ve Çevre Sorunları",
+            "Sürdürülebilir Kalkınma"
+          ]
+        },
+        {
+          "name": "Elektrik Yükleri ve Elektrik Enerjisi",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/201812312311937-FEN%20B%C4%B0L%C4%B0MLER%C4%B0%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI2018.pdf",
+          "topics": [
+            "Elektrik Yükleri ve Elektriklenme",
+            "Elektrik Yüklü Cisimler",
+            "Elektrik Enerjisinin Dönüşümü"
+          ]
+        }
+      ]
+    },
+    "Türkçe": {
+      "source": "https://mufredat.meb.gov.tr/Dosyalar/20195716392253-02-T%C3%BCrk%C3%A7e%20%C3%96%C4%9Fretim%20Program%C4%B1%202019.pdf",
+      "units": [
+        {
+          "name": "Dinleme / İzleme",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/20195716392253-02-T%C3%BCrk%C3%A7e%20%C3%96%C4%9Fretim%20Program%C4%B1%202019.pdf",
+          "topics": [
+            "Tahmin etme ve kelime anlamı",
+            "Özetleme",
+            "Konu ve ana fikir / ana duygu",
+            "Tutarlılığı sorgulama",
+            "Medya metinleri",
+            "Düşünceyi geliştirme yolları",
+            "Sözlü olmayan mesajlar",
+            "Dinleme stratejileri"
+          ]
+        },
+        {
+          "name": "Konuşma",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/20195716392253-02-T%C3%BCrk%C3%A7e%20%C3%96%C4%9Fretim%20Program%C4%B1%202019.pdf",
+          "topics": [
+            "Hazırlıklı ve hazırlıksız konuşma",
+            "Konuşma stratejileri",
+            "Beden dili",
+            "Kelimeleri anlamına uygun kullanma",
+            "Geçiş ve bağlantı ifadeleri"
+          ]
+        },
+        {
+          "name": "Okuma",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/20195716392253-02-T%C3%BCrk%C3%A7e%20%C3%96%C4%9Fretim%20Program%C4%B1%202019.pdf",
+          "topics": [
+            "Sözcükte anlam ve bağlam",
+            "Deyim, atasözü ve özdeyiş",
+            "Söz sanatları",
+            "Anlatım bozuklukları",
+            "Fiilimsiler",
+            "Anlatım biçimleri",
+            "Metnin konusu, ana fikri ve yardımcı fikirleri",
+            "Hikâye unsurları",
+            "Metni yorumlama ve çıkarım",
+            "Metinler arası karşılaştırma",
+            "Gerçek ve kurgusal unsurlar",
+            "Metin türleri",
+            "Görsel okuma",
+            "Bilgi kaynakları ve medya",
+            "Metnin içeriğini değerlendirme"
+          ]
+        },
+        {
+          "name": "Yazma",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/20195716392253-02-T%C3%BCrk%C3%A7e%20%C3%96%C4%9Fretim%20Program%C4%B1%202019.pdf",
+          "topics": [
+            "Şiir, bilgilendirici ve hikâye edici metinler",
+            "Yazma stratejileri",
+            "Anlatımı destekleme ve geçiş ifadeleri",
+            "Yazım kuralları ve noktalama",
+            "Cümlenin ögeleri",
+            "Cümle türleri",
+            "Fiillerin çatı özellikleri",
+            "Metni düzenleme, başlık ve paylaşma"
+          ]
+        }
+      ]
+    },
+    "İnkılap Tarihi": {
+      "source": "https://mufredat.meb.gov.tr/Dosyalar/201812104016155-%C4%B0NKILAP%20TAR%C4%B0H%C4%B0%20VE%20ATAT%C3%9CRK%C3%87%C3%9CL%C3%9CK%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI.pdf",
+      "units": [
+        {
+          "name": "Bir Kahraman Doğuyor",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/201812104016155-%C4%B0NKILAP%20TAR%C4%B0H%C4%B0%20VE%20ATAT%C3%9CRK%C3%87%C3%9CL%C3%9CK%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI.pdf",
+          "topics": [
+            "20. yüzyıl başlarında Osmanlı Devleti",
+            "Mustafa Kemal’in çocukluk ve öğrenim hayatı",
+            "Mustafa Kemal’in fikir hayatı",
+            "Mustafa Kemal’in askerlik hayatı"
+          ]
+        },
+        {
+          "name": "Millî Uyanış: Bağımsızlık Yolunda Atılan Adımlar",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/201812104016155-%C4%B0NKILAP%20TAR%C4%B0H%C4%B0%20VE%20ATAT%C3%9CRK%C3%87%C3%9CL%C3%9CK%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI.pdf",
+          "topics": [
+            "Birinci Dünya Savaşı ve Osmanlı Devleti",
+            "Mondros Ateşkes Antlaşması",
+            "Kuvâ-yı Millîye",
+            "Millî Mücadele’ye hazırlık",
+            "Misakımillî ve Büyük Millet Meclisi",
+            "Meclise karşı ayaklanmalar",
+            "Sevr Antlaşması"
+          ]
+        },
+        {
+          "name": "Millî Bir Destan: Ya İstiklal Ya Ölüm!",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/201812104016155-%C4%B0NKILAP%20TAR%C4%B0H%C4%B0%20VE%20ATAT%C3%9CRK%C3%87%C3%9CL%C3%9CK%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI.pdf",
+          "topics": [
+            "Doğu ve Güney cepheleri",
+            "Batı Cephesi",
+            "Maarif Kongresi",
+            "Tekâlif-i Millîye Emirleri",
+            "Sakarya Meydan Savaşı ve Büyük Taarruz",
+            "Lozan Antlaşması",
+            "Millî Mücadele’nin sanat ve edebiyata yansımaları"
+          ]
+        },
+        {
+          "name": "Atatürkçülük ve Çağdaşlaşan Türkiye",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/201812104016155-%C4%B0NKILAP%20TAR%C4%B0H%C4%B0%20VE%20ATAT%C3%9CRK%C3%87%C3%9CL%C3%9CK%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI.pdf",
+          "topics": [
+            "Atatürk ilkeleri",
+            "Siyasi ve hukuk alanındaki gelişmeler",
+            "Eğitim ve kültür alanındaki gelişmeler",
+            "Toplumsal alandaki gelişmeler",
+            "Ekonomi ve sağlık alanındaki gelişmeler",
+            "Cumhuriyetin kazanımları"
+          ]
+        },
+        {
+          "name": "Demokratikleşme Çabaları",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/201812104016155-%C4%B0NKILAP%20TAR%C4%B0H%C4%B0%20VE%20ATAT%C3%9CRK%C3%87%C3%9CL%C3%9CK%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI.pdf",
+          "topics": [
+            "Demokratikleşme yolunda adımlar",
+            "Mustafa Kemal’e suikast girişimi",
+            "Türkiye Cumhuriyeti’ne yönelik tehditler"
+          ]
+        },
+        {
+          "name": "Atatürk Dönemi Türk Dış Politikası",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/201812104016155-%C4%B0NKILAP%20TAR%C4%B0H%C4%B0%20VE%20ATAT%C3%9CRK%C3%87%C3%9CL%C3%9CK%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI.pdf",
+          "topics": [
+            "Türk dış politikasının temel ilkeleri",
+            "Dış politikadaki gelişmeler",
+            "Hatay’ın ana vatana katılması"
+          ]
+        },
+        {
+          "name": "Atatürk’ün Ölümü ve Sonrası",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/201812104016155-%C4%B0NKILAP%20TAR%C4%B0H%C4%B0%20VE%20ATAT%C3%9CRK%C3%87%C3%9CL%C3%9CK%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI.pdf",
+          "topics": [
+            "Atatürk’ün ölümü ve eserleri",
+            "İkinci Dünya Savaşı ve Türkiye",
+            "Çok partili siyasi hayat"
+          ]
+        }
+      ]
+    },
+    "İngilizce": {
+      "source": "https://mufredat.meb.gov.tr/Dosyalar/201812411191321-%C4%B0NG%C4%B0L%C4%B0ZCE%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%20Klas%C3%B6r%C3%BC.pdf",
+      "units": [
+        {
+          "name": "Friendship",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/201812411191321-%C4%B0NG%C4%B0L%C4%B0ZCE%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%20Klas%C3%B6r%C3%BC.pdf",
+          "topics": [
+            "Accepting and refusing invitations",
+            "Apologising and giving reasons",
+            "Friendship and personal preferences"
+          ]
+        },
+        {
+          "name": "Teen Life",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/201812411191321-%C4%B0NG%C4%B0L%C4%B0ZCE%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%20Klas%C3%B6r%C3%BC.pdf",
+          "topics": [
+            "Likes and dislikes",
+            "Daily routines",
+            "Personal preferences"
+          ]
+        },
+        {
+          "name": "In the Kitchen",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/201812411191321-%C4%B0NG%C4%B0L%C4%B0ZCE%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%20Klas%C3%B6r%C3%BC.pdf",
+          "topics": [
+            "Cooking processes",
+            "Sequencing actions",
+            "Food and kitchen tools"
+          ]
+        },
+        {
+          "name": "On the Phone",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/201812411191321-%C4%B0NG%C4%B0L%C4%B0ZCE%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%20Klas%C3%B6r%C3%BC.pdf",
+          "topics": [
+            "Telephone conversations",
+            "Asking for clarification",
+            "Making arrangements"
+          ]
+        },
+        {
+          "name": "The Internet",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/201812411191321-%C4%B0NG%C4%B0L%C4%B0ZCE%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%20Klas%C3%B6r%C3%BC.pdf",
+          "topics": [
+            "Internet habits",
+            "Accepting and refusing requests",
+            "Making excuses"
+          ]
+        },
+        {
+          "name": "Adventures",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/201812411191321-%C4%B0NG%C4%B0L%C4%B0ZCE%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%20Klas%C3%B6r%C3%BC.pdf",
+          "topics": [
+            "Comparisons",
+            "Preferences and reasons",
+            "Extreme sports"
+          ]
+        },
+        {
+          "name": "Tourism",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/201812411191321-%C4%B0NG%C4%B0L%C4%B0ZCE%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%20Klas%C3%B6r%C3%BC.pdf",
+          "topics": [
+            "Experiences and tourist attractions",
+            "Comparisons",
+            "Preferences"
+          ]
+        },
+        {
+          "name": "Chores",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/201812411191321-%C4%B0NG%C4%B0L%C4%B0ZCE%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%20Klas%C3%B6r%C3%BC.pdf",
+          "topics": [
+            "Obligations and responsibilities",
+            "Household tasks",
+            "Likes and dislikes"
+          ]
+        },
+        {
+          "name": "Science",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/201812411191321-%C4%B0NG%C4%B0L%C4%B0ZCE%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%20Klas%C3%B6r%C3%BC.pdf",
+          "topics": [
+            "Past events",
+            "Scientific achievements",
+            "Scientists"
+          ]
+        },
+        {
+          "name": "Natural Forces",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/201812411191321-%C4%B0NG%C4%B0L%C4%B0ZCE%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%20Klas%C3%B6r%C3%BC.pdf",
+          "topics": [
+            "Predictions",
+            "Natural disasters",
+            "Future possibilities"
+          ]
+        }
+      ]
+    },
+    "Din": {
+      "source": "https://mufredat.meb.gov.tr/Dosyalar/20221229134650712-DKAB_%284-8.%20S%C4%B1n%C4%B1f%29_DOP_%202018.pdf",
+      "units": [
+        {
+          "name": "Kader İnancı",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/20221229134650712-DKAB_%284-8.%20S%C4%B1n%C4%B1f%29_DOP_%202018.pdf",
+          "topics": [
+            "Kader ve kaza inancı",
+            "İnsanın iradesi ve kader",
+            "Kaderle ilgili kavramlar",
+            "Hz. Musa",
+            "Ayet el-Kürsi ve anlamı"
+          ]
+        },
+        {
+          "name": "Zekât ve Sadaka",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/20221229134650712-DKAB_%284-8.%20S%C4%B1n%C4%B1f%29_DOP_%202018.pdf",
+          "topics": [
+            "İslam’ın paylaşma ve yardımlaşmaya verdiği önem",
+            "Zekât ve sadaka ibadeti",
+            "Zekât ve sadakanın bireysel ve toplumsal faydaları",
+            "Hz. Şuayb",
+            "Maûn suresi ve anlamı"
+          ]
+        },
+        {
+          "name": "Din ve Hayat",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/20221229134650712-DKAB_%284-8.%20S%C4%B1n%C4%B1f%29_DOP_%202018.pdf",
+          "topics": [
+            "Din, birey ve toplum",
+            "Dinin temel gayesi",
+            "Hz. Yusuf",
+            "Asr suresi ve anlamı"
+          ]
+        },
+        {
+          "name": "Hz. Muhammed’in Örnekliği",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/20221229134650712-DKAB_%284-8.%20S%C4%B1n%C4%B1f%29_DOP_%202018.pdf",
+          "topics": [
+            "Doğruluk ve güvenilirlik",
+            "Merhamet ve affedicilik",
+            "İstişareye önem verme",
+            "Davasındaki cesaret ve kararlılık",
+            "Hakkı gözetme",
+            "İnsanlara değer verme",
+            "Kureyş suresi ve anlamı"
+          ]
+        },
+        {
+          "name": "Kur’an-ı Kerim ve Özellikleri",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/20221229134650712-DKAB_%284-8.%20S%C4%B1n%C4%B1f%29_DOP_%202018.pdf",
+          "topics": [
+            "İslam dininin temel kaynakları",
+            "Kur’an-ı Kerim’in ana konuları",
+            "Kur’an-ı Kerim’in temel özellikleri",
+            "Hz. Nuh"
+          ]
+        }
+      ]
+    },
+    "Müzik": {
+      "source": "https://mufredat.meb.gov.tr/Dosyalar/2018129173048695-1-8%20M%C3%BCzik%20%C3%96%C4%9Fretim%20Program%C4%B1%2020180123.pdf",
+      "units": [
+        {
+          "name": "Dinleme – Söyleme",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/2018129173048695-1-8%20M%C3%BCzik%20%C3%96%C4%9Fretim%20Program%C4%B1%2020180123.pdf",
+          "topics": [
+            "İstiklâl Marşı ve marşlarımız",
+            "Türk toplum ve topluluklarının müzikleri",
+            "Makamlar ve müzik türleri",
+            "Metronom ve uygun hızda seslendirme",
+            "Ses grupları",
+            "Müzik çalışmasını sergileme",
+            "Mahallî sanatçılar"
+          ]
+        },
+        {
+          "name": "Müziksel Algı ve Bilgilenme",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/2018129173048695-1-8%20M%C3%BCzik%20%C3%96%C4%9Fretim%20Program%C4%B1%2020180123.pdf",
+          "topics": [
+            "Temel müzik yazısı ve ögeleri",
+            "Müzikte diziler"
+          ]
+        },
+        {
+          "name": "Müziksel Yaratıcılık",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/2018129173048695-1-8%20M%C3%BCzik%20%C3%96%C4%9Fretim%20Program%C4%B1%2020180123.pdf",
+          "topics": [
+            "Türkü öykülerini canlandırma",
+            "Ritim kalıpları",
+            "Ezgi oluşturma ve seslendirme",
+            "Müzikte bilişim teknolojileri"
+          ]
+        },
+        {
+          "name": "Müzik Kültürü",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/2018129173048695-1-8%20M%C3%BCzik%20%C3%96%C4%9Fretim%20Program%C4%B1%2020180123.pdf",
+          "topics": [
+            "Türk müziği biçimleri",
+            "Müziğin diğer sanatlarla ilişkisi",
+            "Türkü öyküleri",
+            "Müzik arşivi",
+            "Atatürk ve müzik",
+            "Müzik ve terapi",
+            "Sanat, sanatçı ve sanat eseri",
+            "Müzik meslekleri"
+          ]
+        }
+      ]
+    },
+    "Görsel Sanatlar": {
+      "source": "https://mufredat.meb.gov.tr/Dosyalar/2018121111026326-GORSEL%20SANATLAR.pdf",
+      "units": [
+        {
+          "name": "Görsel İletişim ve Biçimlendirme",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/2018121111026326-GORSEL%20SANATLAR.pdf",
+          "topics": [
+            "Eskiz ve sunum dosyası",
+            "Güncel sanat ve olaylar",
+            "Yazı ve görselin kullanımı",
+            "Perspektif teknikleri",
+            "Gözleme dayalı çizim",
+            "Üç boyutlu çalışma",
+            "Sanat elemanları ve tasarım ilkeleri"
+          ]
+        },
+        {
+          "name": "Kültürel Miras",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/2018121111026326-GORSEL%20SANATLAR.pdf",
+          "topics": [
+            "Sanat eseri ve sosyal, siyasi, ekonomik koşullar",
+            "Sanatçının toplumdaki rolü",
+            "Dönem, üslup ve malzeme karşılaştırması",
+            "Müze eserlerini koruma"
+          ]
+        },
+        {
+          "name": "Sanat Eleştirisi ve Estetik",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/2018121111026326-GORSEL%20SANATLAR.pdf",
+          "topics": [
+            "Görsel dil",
+            "Sanat eserini değerlendirme",
+            "Estetik",
+            "Kendi ve akran çalışmalarını analiz etme",
+            "Çağdaş medya ve popüler kültür"
+          ]
+        }
+      ]
+    },
+    "Beden Eğitimi ve Spor": {
+      "source": "https://mufredat.meb.gov.tr/Dosyalar/2018120201950145-BEDEN%20EGITIMI%20VE%20SPOR%20OGRETIM%20PROGRAM%202018.pdf",
+      "units": [
+        {
+          "name": "Hareket Yetkinliği",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/2018120201950145-BEDEN%20EGITIMI%20VE%20SPOR%20OGRETIM%20PROGRAM%202018.pdf",
+          "topics": [
+            "Hareket becerileri",
+            "Hareket kavramları ve ilkeleri",
+            "Hareket stratejileri ve taktikleri"
+          ]
+        },
+        {
+          "name": "Aktif ve Sağlıklı Hayat",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/2018120201950145-BEDEN%20EGITIMI%20VE%20SPOR%20OGRETIM%20PROGRAM%202018.pdf",
+          "topics": [
+            "Düzenli fiziksel etkinlik",
+            "Fiziksel etkinlik kavramları ve ilkeleri",
+            "Spor güvenliği ve sakatlıklardan korunma",
+            "Kültürel birikimlerimiz ve değerlerimiz",
+            "Olimpik ve Paralimpik oyunlar"
+          ]
+        }
+      ]
+    },
+    "Teknoloji ve Tasarım": {
+      "source": "https://mufredat.meb.gov.tr/Dosyalar/2018124112937511-TEKNOLOJ%C4%B0%20TASARIM%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%207-8.pdf",
+      "units": [
+        {
+          "name": "Teknoloji ve Tasarımın Temelleri",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/2018124112937511-TEKNOLOJ%C4%B0%20TASARIM%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%207-8.pdf",
+          "topics": [
+            "İnovatif düşüncenin geliştirilmesi",
+            "Fikirlerin korunması, patent ve tescil"
+          ]
+        },
+        {
+          "name": "Tasarım Süreci ve Tanıtım",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/2018124112937511-TEKNOLOJ%C4%B0%20TASARIM%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%207-8.pdf",
+          "topics": [
+            "Bilgisayar destekli tasarım ve akıllı ürünler",
+            "Tanıtım ve pazarlama"
+          ]
+        },
+        {
+          "name": "Yapılı Çevre ve Ürün",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/2018124112937511-TEKNOLOJ%C4%B0%20TASARIM%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%207-8.pdf",
+          "topics": [
+            "Görsel iletişim tasarımı",
+            "Ürün geliştirme ve ergonomi",
+            "Mühendislik ve tasarım",
+            "Doğadan tasarıma ve biyotaklit"
+          ]
+        },
+        {
+          "name": "İhtiyaçlar ve Yenilikçilik",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/2018124112937511-TEKNOLOJ%C4%B0%20TASARIM%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%207-8.pdf",
+          "topics": [
+            "Ulaşım teknolojileri"
+          ]
+        },
+        {
+          "name": "Tasarım ve Teknolojik Çözüm",
+          "url": "https://mufredat.meb.gov.tr/Dosyalar/2018124112937511-TEKNOLOJ%C4%B0%20TASARIM%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%207-8.pdf",
+          "topics": [
+            "Özgün ürünümü tasarlıyorum",
+            "Bunu ben yaptım"
+          ]
+        }
+      ]
+    }
+  }
+}

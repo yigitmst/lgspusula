@@ -1,0 +1,3 @@
+import {database} from '../../../db/store';
+import {requestToken,tokenHash,sessionCookie} from '../../../lib/demo-auth';
+export async function POST(req:Request){try{const origin=req.headers.get('origin');if(origin&&origin!==new URL(req.url).origin)return Response.json({error:'Geçersiz istek.'},{status:403});const token=requestToken(req);if(token)await database().prepare('DELETE FROM demo_sessions WHERE token_hash=?').bind(await tokenHash(token)).run();return Response.json({ok:true},{headers:{'Set-Cookie':sessionCookie(req,'',true),'Cache-Control':'no-store'}});}catch(e){console.error(e);return Response.json({error:'Çıkış yapılamadı. Yeniden deneyin.'},{status:503});}}
