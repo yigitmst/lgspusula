@@ -1,3 +1,9 @@
+# LGSPusula — 7 Ekim orijinal uygulaması
+
+Bu dalın kurulum ve Vercel test yayın talimatları: [README_TEST_TR.md](README_TEST_TR.md).
+Orijinal kaynak arşivi açıklaması: [EXPORT_README_TR.md](EXPORT_README_TR.md).
+Aşağıda orijinal Cloudflare/Vinext başlangıç şablonunun teknik açıklaması korunmuştur.
+
 # vinext-starter
 
 A clean full-stack starter running on [vinext](https://github.com/cloudflare/vinext), with optional Cloudflare D1 and Drizzle support.

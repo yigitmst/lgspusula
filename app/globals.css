@@ -89,3 +89,27 @@
 .notificationBody{padding:0 20px 14px}.notificationBody ol{list-style:none;padding:0;margin:8px 0;max-height:300px;overflow:auto}.notificationBody li{display:flex;justify-content:space-between;gap:12px;padding:12px;border-radius:12px;border-bottom:1px solid #edf1f6}.notificationBody li.unread{background:#f0f7ff}.notificationBody p{margin:4px 0;font-size:14px}.notificationBody small{color:#73839a}.notificationBody li>div:last-child{display:flex;align-items:center;gap:6px;flex-shrink:0}
 .mentorTimeline{list-style:none;margin:22px 0;padding:0 0 0 18px;border-left:2px solid #d8e5f4}.mentorTimeline>li{position:relative}.mentorTimeline>li:before{content:'';position:absolute;left:-25px;top:26px;width:12px;height:12px;border-radius:50%;background:#6284b7;border:2px solid #fff}.mentorTimeline .panel{padding:22px;margin-bottom:20px}.mentorTimeline .panelHead{padding:0 0 16px}.mentorTimeline h3{font-size:14px;margin:20px 0 8px}.mentorScores{display:flex;flex-wrap:wrap;gap:8px}.mentorScores span{background:#f0f5fb;color:#45618a;border-radius:20px;padding:7px 12px;font-size:13px}.meetingText{white-space:pre-wrap;overflow-wrap:anywhere;line-height:1.7;color:#42546d}.resourceListInfo p{overflow-wrap:anywhere}.classResourceForm textarea{width:100%}
 @media(max-width:760px){.teacherMode .mobileBottomNav{overflow-x:auto;justify-content:flex-start}.teacherMode .mobileBottomNav button{flex:0 0 auto;min-width:74px}.notificationBody li{flex-direction:column}.notificationBody li>div:last-child{justify-content:flex-end}.mentorTimeline .panel{padding:16px}.mentorPage .resourceManagerToolbar>div{display:flex;flex-wrap:wrap;gap:8px}.mentorPage .resourceManagerToolbar{align-items:stretch}}
+
+/* Requested test revision: compact teacher roster, original palette/cards preserved. */
+.teacherRosterView .content{padding-top:18px}
+.teacherRosterView .demoControls{margin-bottom:14px}
+.teacherRosterView .demoControls:not([open]){padding:10px 16px}
+.teacherRosterView .pageHeading{margin-bottom:16px;gap:14px}
+.teacherRosterView .pageHeading .eyebrow{margin-bottom:5px}
+.teacherRosterView .pageHeading p{margin-top:6px}
+.teacherRosterView .sectionTabs{margin-bottom:14px;padding-bottom:8px}
+.teacherRosterView .rosterToolbar{margin-bottom:16px;gap:16px}
+.chatLauncher{background:rgb(36 93 228 / 80%);-webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px);box-shadow:0 4px 16px rgb(23 57 115 / 18%);border:1px solid rgb(255 255 255 / 18%)}
+@media(max-width:760px){.teacherRosterView .content{padding-top:12px}.teacherRosterView .pageHeading{gap:12px}.teacherRosterView .rosterToolbar{gap:12px}.teacherRosterView .demoControls:not([open]){padding:9px 12px}}
+.teacherRosterView .sectionTabs{flex-direction:row}
+.teacherRosterView .sectionTabs>button{padding:10px 14px}
+.teacherRosterView .rosterToolbar label{gap:6px}
+@media(max-width:760px){
+ .teacherRosterView .pageHeading{flex-direction:row;align-items:center;gap:10px}
+ .teacherRosterView .pageHeading>div:first-child{flex:1;min-width:0}
+ .teacherRosterView .pageHeading .headingActions{width:auto;display:flex;flex:0 0 auto}
+ .teacherRosterView .pageHeading .headingActions .primary{padding:10px 12px;font-size:13px}
+ .teacherRosterView .rosterToolbar>span{padding-bottom:0;font-size:13px;line-height:1.4}
+ .teacherRosterView .mobileBottomNav{display:flex;flex-direction:row;flex-wrap:nowrap;gap:4px;overflow-x:auto}
+ .teacherRosterView .mobileBottomNav button{flex:0 0 auto;min-height:44px}
+}

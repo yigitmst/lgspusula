@@ -11,7 +11,11 @@
     "build": "node scripts/run-framework.mjs build",
     "start": "node --import ./scripts/sites-env.mjs ./node_modules/wrangler/bin/wrangler.js dev --config dist/server/wrangler.json --local --persist-to .wrangler/state --ip 127.0.0.1 --inspector-port 0",
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next",
-    "db:generate": "drizzle-kit generate"
+    "db:generate": "drizzle-kit generate",
+    "dev:vercel": "LGS_RUNTIME=vercel-demo next dev --webpack",
+    "build:vercel": "next build --webpack",
+    "start:vercel": "LGS_RUNTIME=vercel-demo next start",
+    "test": "node tests/class-updates.cjs && node tests/student-courses.cjs && node tests/class-updates-ui.cjs && node tests/student-inspiration-ui.cjs && node tests/study-navigation.cjs"
   },
   "dependencies": {
     "@base-ui/react": "^1.7.0",
@@ -37,7 +41,8 @@
     "sonner": "^2.0.8",
     "tailwind-merge": "3.6.0",
     "vaul": "^1.1.2",
-    "zod": "^3.25.76"
+    "zod": "^3.25.76",
+    "@vercel/blob": "2.8.0"
   },
   "devDependencies": {
     "@cloudflare/vite-plugin": "1.37.1",
