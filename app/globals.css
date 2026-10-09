@@ -99,17 +99,8 @@
 .teacherRosterView .pageHeading p{margin-top:6px}
 .teacherRosterView .sectionTabs{margin-bottom:14px;padding-bottom:8px}
 .teacherRosterView .rosterToolbar{margin-bottom:16px;gap:16px}
-.chatLauncher{background:rgb(36 93 228 / 80%);-webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px);box-shadow:0 4px 16px rgb(23 57 115 / 18%);border:1px solid rgb(255 255 255 / 18%)}
+.chatLauncher{background:rgb(36 93 228 / 80%);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);box-shadow:0 4px 16px rgb(23 57 115 / 18%);border:1px solid rgb(255 255 255 / 18%)}
 @media(max-width:760px){.teacherRosterView .content{padding-top:12px}.teacherRosterView .pageHeading{gap:12px}.teacherRosterView .rosterToolbar{gap:12px}.teacherRosterView .demoControls:not([open]){padding:9px 12px}}
 .teacherRosterView .sectionTabs{flex-direction:row}
 .teacherRosterView .sectionTabs>button{padding:10px 14px}
 .teacherRosterView .rosterToolbar label{gap:6px}
-@media(max-width:760px){
- .teacherRosterView .pageHeading{flex-direction:row;align-items:center;gap:10px}
- .teacherRosterView .pageHeading>div:first-child{flex:1;min-width:0}
- .teacherRosterView .pageHeading .headingActions{width:auto;display:flex;flex:0 0 auto}
- .teacherRosterView .pageHeading .headingActions .primary{padding:10px 12px;font-size:13px}
- .teacherRosterView .rosterToolbar>span{padding-bottom:0;font-size:13px;line-height:1.4}
- .teacherRosterView .mobileBottomNav{display:flex;flex-direction:row;flex-wrap:nowrap;gap:4px;overflow-x:auto}
- .teacherRosterView .mobileBottomNav button{flex:0 0 auto;min-height:44px}
-}
